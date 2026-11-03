@@ -1,0 +1,6 @@
+@BlockedUserMiddleware_HostAddress = http://localhost:5191
+
+GET {{BlockedUserMiddleware_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
